@@ -1,0 +1,4 @@
+GET {{eureka}}/eureka/apps
+Accept: application/json
+
+###
